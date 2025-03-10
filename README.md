@@ -9,7 +9,9 @@ This project demonstrates a basic ETL pipeline using Pokémon data. We extract d
 
 # Project Status
 
-In Progress
+## Extraction
+
+The API connection has been successfully established, and the necessary data has been retrieved
 
 # Tech Stack
 - Tech Stack
